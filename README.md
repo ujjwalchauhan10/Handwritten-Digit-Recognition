@@ -6,10 +6,6 @@ Overview :
 
 Handwritten Digit Recognition project is to take a picture of a digit and process it up to recognize the image of that character just like a human brain recognize the various digits. In this project we the MNIST dataset to implement our handwritten digit recognition model. We use a special type of deep neural network known as Convolutional Neural Network. Towards the end of our project, we generate a Confusion Matrix to demonstrate the limitations of the model 
 
-Background And Motivation :
-
-As a student of Artificial Intelligence and Data Science, I have always been fascinated by the workings of AI models that use neural networks. This led me to choose this project under the mentorship of Mr. Akshay Rajput. I would like to thank him for his excellent guidance through which I have successfully created this project. Finally, I am very much thankful to all the faculty members of the Department of Computer Science and Technology, friends and our parents for their constant encouragement, support and help throughout the period of project conduction.
-
 Problem Statement:
 
 Handwritten digit recognition to recognize digit present in the grayscale image of size 28 x 28 pixels.
